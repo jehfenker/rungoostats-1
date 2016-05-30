@@ -1,3 +1,4 @@
+#testing
 for datafile in *[AB].txt
 do
  echo $datafile
